@@ -830,3 +830,694 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.14-09.13.49:646][106]LogSavePackage: Moving '../../../../../../Users/steve/Documents/GitHub/Unreal-Projects/Proto_KingCham/Saved/Minimal_Default_BuiltData027A1A234E327C6D41EABE9C76FAF096.tmp' to '../../../../../../Users/steve/Documents/GitHub/Unreal-Projects/Proto_KingCham/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
 [2019.10.14-09.13.56:748][771]LogSlate: Window 'Content Browser' being destroyed
 [2019.10.14-09.13.56:753][771]LogSlate: Window 'Content Browser' being destroyed
+[2019.10.14-09.17.49:000][248]LogAIModule: Creating AISystem for world StarterMap
+[2019.10.14-09.17.49:041][248]LogAssetEditorManager: Opening Asset editor for World /Game/StarterContent/Maps/StarterMap.StarterMap
+[2019.10.14-09.17.49:076][248]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2019.10.14-09.17.49:078][248]Cmd: MAP LOAD FILE="../../../../../../Users/steve/Documents/GitHub/Unreal-Projects/Proto_KingCham/Content/StarterContent/Maps/StarterMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.14-09.17.49:078][248]LightingResults: New page: Lighting Build
+[2019.10.14-09.17.49:079][248]LoadErrors: New page: Loading map: StarterMap.umap
+[2019.10.14-09.17.49:079][248]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2019.10.14-09.17.49:080][248]MapCheck: New page: Map Check
+[2019.10.14-09.17.49:080][248]LightingResults: New page: Lighting Build
+[2019.10.14-09.17.49:106][248]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2019.10.14-09.17.49:251][248]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.14-09.17.49:290][248]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2019.10.14-09.17.49:313][248]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.14-09.17.49:313][248]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,152ms to complete.
+[2019.10.14-09.17.49:313][248]LogFileHelpers: Loading map 'StarterMap' took 0.236
+[2019.10.14-09.18.04:657][971]LogEditorViewport: Clicking on Actor (LMB): Blueprint_Effect_Fire_C (P_Fire_Blueprint)
+[2019.10.14-09.18.08:223][129]LogSlate: Took 0.006834 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.14-09.18.13:598][365]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-09.18.15:231][490]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/StarterContent/Blueprints/Blueprint_Effect_Fire.Blueprint_Effect_Fire
+[2019.10.14-09.18.15:516][490]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 121 classes and 0 folders.
+[2019.10.14-09.18.16:582][490]LogSlate: Took 0.005173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.10.14-09.18.19:564][619]LogRenderer: Reallocating scene render targets to support 1304x712 Format 10 NumSamples 1 (Frame:1).
+[2019.10.14-09.18.23:998][779]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-09.19.03:912][369]LogSlate: Window 'Blueprint_Effect_Fire' being destroyed
+[2019.10.14-09.19.03:917][369]LogSlate: Window 'Blueprint_Effect_Fire' being destroyed
+[2019.10.14-09.19.03:949][369]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.10.14-09.19.15:665][915]LogSlate: Window 'Editor Preferences' being destroyed
+[2019.10.14-09.19.15:676][915]LogSlate: Window 'Editor Preferences' being destroyed
+[2019.10.14-09.19.17:598][987]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2019.10.14-09.19.17:921][987]LogSavePackage: Moving '../../../../../../Users/steve/Documents/GitHub/Unreal-Projects/Proto_KingCham/Saved/StarterMap64D259B24BA434C3F8D48EAACDA0E300.tmp' to '../../../../../../Users/steve/Documents/GitHub/Unreal-Projects/Proto_KingCham/Content/StarterContent/Maps/StarterMap.umap'
+[2019.10.14-09.19.18:549][987]LogSavePackage: Moving '../../../../../../Users/steve/Documents/GitHub/Unreal-Projects/Proto_KingCham/Saved/StarterMap_BuiltData9B78938348FE9988AE89F3B76601F579.tmp' to '../../../../../../Users/steve/Documents/GitHub/Unreal-Projects/Proto_KingCham/Content/StarterContent/Maps/StarterMap_BuiltData.uasset'
+[2019.10.14-09.19.37:899][336]LogEditorViewport: Clicking on Actor (LMB): Blueprint_Effect_Sparks_C (P_Sparks_Blueprint)
+[2019.10.14-09.19.40:607][468]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.14-09.19.43:935][788]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.14-09.19.43:938][788]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/StarterContent/Blueprints/Blueprint_Effect_Sparks.Blueprint_Effect_Sparks
+[2019.10.14-09.20.07:301][138]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-09.20.25:334][998]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-09.20.28:164][284]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.10.14-09.21.17:647][450]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-09.21.44:667][709]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/StarterContent/Props/SM_Bush.SM_Bush
+[2019.10.14-09.21.45:527][710]LogRenderer: Reallocating scene render targets to support 1432x920 Format 10 NumSamples 1 (Frame:1).
+[2019.10.14-09.21.57:208][545]LogMaterial: Display: Material /Game/StarterContent/Props/Materials/M_Bush.M_Bush needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2019.10.14-09.21.57:213][545]LogMaterial: Display: Missing cached shader map for material M_Bush, compiling. 
+[2019.10.14-09.21.57:375][546]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 115
+[2019.10.14-09.21.57:375][546]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 105
+[2019.10.14-09.21.57:375][546]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 95
+[2019.10.14-09.21.57:375][546]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 85
+[2019.10.14-09.22.03:852][701]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 75
+[2019.10.14-09.22.04:035][704]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 65
+[2019.10.14-09.22.06:237][747]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 55
+[2019.10.14-09.22.09:458][807]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-09.22.09:547][810]MapCheck: New page: Map Check
+[2019.10.14-09.22.09:569][810]Cmd: MAP REBUILD ALLVISIBLE
+[2019.10.14-09.22.09:569][810]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.10.14-09.22.10:058][810]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=false
+[2019.10.14-09.22.10:429][810]LogUObjectHash: Compacting FUObjectHashTables data took   9.69ms
+[2019.10.14-09.22.20:484][810]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 45
+[2019.10.14-09.22.20:484][810]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 35
+[2019.10.14-09.22.20:484][810]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 26
+[2019.10.14-09.22.20:484][810]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2019.10.14-09.22.20:484][810]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2019.10.14-09.22.20:484][810]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2019.10.14-09.22.20:484][810]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.10.14-09.22.20:484][810]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2019.10.14-09.22.20:484][810]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2019.10.14-09.22.20:484][810]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.10.14-09.22.20:484][810]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2019.10.14-09.22.20:484][810]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.14-09.22.20:495][810]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.14-09.22.20:505][810]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2019.10.14-09.22.20:505][810]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2019.10.14-09.22.20:505][810]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.14-09.22.20:515][810]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.14-09.22.20:525][810]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2019.10.14-09.22.20:525][810]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2019.10.14-09.22.20:525][810]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.14-09.22.20:540][810]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.14-09.22.20:555][810]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.14-09.22.20:568][810]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.14-09.22.20:582][810]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.14-09.22.20:595][810]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.14-09.22.20:613][810]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.14-09.22.20:626][810]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.14-09.22.20:645][810]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.14-09.22.20:659][810]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.14-09.22.20:676][810]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.14-09.22.20:697][810]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.14-09.22.20:711][810]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.14-09.22.20:736][810]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.14-09.22.20:752][810]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.14-09.22.20:767][810]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.14-09.22.20:784][810]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.14-09.22.20:803][810]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.14-09.22.20:823][810]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.14-09.22.20:837][810]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.14-09.22.20:852][810]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.14-09.22.20:871][810]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.14-09.22.20:886][810]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.14-09.22.20:902][810]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.14-09.22.20:916][810]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.14-09.22.20:934][810]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.14-09.22.20:947][810]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.14-09.22.20:969][810]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.14-09.22.20:984][810]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.14-09.22.21:006][810]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.14-09.22.21:024][810]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.14-09.22.21:037][810]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.14-09.22.21:052][810]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 66
+[2019.10.14-09.22.21:052][810]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.14-09.22.21:076][810]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.14-09.22.21:090][810]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.14-09.22.21:104][810]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.14-09.22.21:117][810]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 73
+[2019.10.14-09.22.21:118][810]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.14-09.22.21:133][810]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 76
+[2019.10.14-09.22.21:133][810]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.14-09.22.21:147][810]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.14-09.22.21:161][810]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 77
+[2019.10.14-09.22.21:161][810]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.14-09.22.21:173][810]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.14-09.22.21:185][810]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.14-09.22.21:198][810]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.14-09.22.21:215][810]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.14-09.22.21:229][810]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.14-09.22.21:246][810]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.14-09.22.21:262][810]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.14-09.22.21:278][810]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.14-09.22.21:295][810]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.14-09.22.21:314][810]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.14-09.22.21:330][810]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.14-09.22.21:345][810]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.14-09.22.37:689][810]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 104
+[2019.10.14-09.22.37:689][810]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 103
+[2019.10.14-09.22.37:689][810]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 102
+[2019.10.14-09.22.37:689][810]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 101
+[2019.10.14-09.22.37:689][810]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 100
+[2019.10.14-09.22.37:689][810]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 99
+[2019.10.14-09.22.37:689][810]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 98
+[2019.10.14-09.22.37:689][810]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 97
+[2019.10.14-09.22.37:689][810]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 96
+[2019.10.14-09.22.37:689][810]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 95
+[2019.10.14-09.22.37:689][810]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 94
+[2019.10.14-09.22.37:689][810]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 93
+[2019.10.14-09.22.37:689][810]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 92
+[2019.10.14-09.22.37:689][810]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 91
+[2019.10.14-09.22.37:689][810]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 90
+[2019.10.14-09.22.37:689][810]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 89
+[2019.10.14-09.22.37:689][810]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 88
+[2019.10.14-09.22.37:689][810]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 87
+[2019.10.14-09.22.37:689][810]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 86
+[2019.10.14-09.22.37:689][810]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 85
+[2019.10.14-09.22.37:689][810]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 84
+[2019.10.14-09.22.37:689][810]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 83
+[2019.10.14-09.22.37:689][810]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 82
+[2019.10.14-09.22.37:689][810]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 81
+[2019.10.14-09.22.37:689][810]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 80
+[2019.10.14-09.22.37:689][810]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 79
+[2019.10.14-09.22.37:689][810]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 78
+[2019.10.14-09.22.37:689][810]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 77
+[2019.10.14-09.22.37:689][810]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 76
+[2019.10.14-09.22.37:689][810]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 75
+[2019.10.14-09.22.37:689][810]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 74
+[2019.10.14-09.22.37:689][810]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 73
+[2019.10.14-09.22.37:689][810]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 72
+[2019.10.14-09.22.37:689][810]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 71
+[2019.10.14-09.22.37:689][810]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 70
+[2019.10.14-09.22.37:689][810]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 69
+[2019.10.14-09.22.37:689][810]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 68
+[2019.10.14-09.22.37:689][810]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 67
+[2019.10.14-09.22.37:689][810]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 66
+[2019.10.14-09.22.37:689][810]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 65
+[2019.10.14-09.22.37:689][810]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 64
+[2019.10.14-09.22.37:689][810]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 63
+[2019.10.14-09.22.37:690][810]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 62
+[2019.10.14-09.22.37:690][810]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 61
+[2019.10.14-09.22.37:690][810]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 60
+[2019.10.14-09.22.37:690][810]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 59
+[2019.10.14-09.22.37:690][810]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 58
+[2019.10.14-09.22.37:690][810]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 57
+[2019.10.14-09.22.37:690][810]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 56
+[2019.10.14-09.22.37:690][810]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 55
+[2019.10.14-09.22.37:690][810]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 54
+[2019.10.14-09.22.37:690][810]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 53
+[2019.10.14-09.22.37:690][810]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 52
+[2019.10.14-09.22.37:690][810]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 51
+[2019.10.14-09.22.37:690][810]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 50
+[2019.10.14-09.22.37:690][810]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 49
+[2019.10.14-09.22.37:690][810]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 48
+[2019.10.14-09.22.37:690][810]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 47
+[2019.10.14-09.22.37:690][810]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 46
+[2019.10.14-09.22.37:690][810]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 45
+[2019.10.14-09.22.37:690][810]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 44
+[2019.10.14-09.22.37:690][810]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 43
+[2019.10.14-09.22.37:690][810]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 42
+[2019.10.14-09.22.37:690][810]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 41
+[2019.10.14-09.22.37:690][810]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 40
+[2019.10.14-09.22.37:690][810]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 39
+[2019.10.14-09.22.37:690][810]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 38
+[2019.10.14-09.22.37:690][810]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 37
+[2019.10.14-09.22.37:690][810]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 36
+[2019.10.14-09.22.37:690][810]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 35
+[2019.10.14-09.22.37:690][810]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 34
+[2019.10.14-09.22.37:690][810]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 33
+[2019.10.14-09.22.37:690][810]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 32
+[2019.10.14-09.22.37:690][810]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 31
+[2019.10.14-09.22.37:690][810]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 30
+[2019.10.14-09.22.37:690][810]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 29
+[2019.10.14-09.22.37:690][810]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 28
+[2019.10.14-09.22.37:690][810]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 27
+[2019.10.14-09.22.37:690][810]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2019.10.14-09.22.37:690][810]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
+[2019.10.14-09.22.37:690][810]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2019.10.14-09.22.37:690][810]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 23
+[2019.10.14-09.22.37:690][810]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2019.10.14-09.22.37:690][810]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2019.10.14-09.22.37:690][810]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2019.10.14-09.22.37:690][810]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2019.10.14-09.22.37:690][810]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2019.10.14-09.22.37:690][810]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2019.10.14-09.22.37:690][810]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2019.10.14-09.22.37:690][810]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2019.10.14-09.22.37:690][810]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2019.10.14-09.22.37:690][810]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2019.10.14-09.22.37:690][810]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2019.10.14-09.22.37:690][810]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2019.10.14-09.22.37:690][810]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2019.10.14-09.22.37:690][810]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2019.10.14-09.22.37:690][810]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2019.10.14-09.22.37:690][810]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2019.10.14-09.22.37:690][810]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2019.10.14-09.22.37:690][810]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2019.10.14-09.22.37:690][810]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.10.14-09.22.37:690][810]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.10.14-09.22.37:690][810]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2019.10.14-09.22.37:690][810]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2019.10.14-09.22.37:690][810]TextureStreamingBuild: Display: Compiling optional shaders took 17.215 seconds.
+[2019.10.14-09.22.38:399][810]LogLevel: Display: Export Material TexCoord Scales took 0.708 seconds.
+[2019.10.14-09.22.38:925][810]TextureStreamingBuild: Display: Build Texture Streaming took 0.525 seconds.
+[2019.10.14-09.22.39:013][810]LogUObjectHash: Compacting FUObjectHashTables data took   5.17ms
+[2019.10.14-09.22.39:014][810]LightingResults: New page: Lighting Build - 14 oct. 2019 13:22:39
+[2019.10.14-09.22.39:065][810]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.10.14-09.22.39:146][810]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.10.14-09.22.39:162][810]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.10.14-09.22.39:701][810]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.10.14-09.22.39:701][810]LogSwarmInterface: [TryOpenConnection] Local Process ID is 17732
+[2019.10.14-09.22.44:823][810]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.10.14-09.22.44:823][810]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.10.14-09.22.44:823][810]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.10.14-09.22.44:823][810]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.10.14-09.22.44:823][810]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.10.14-09.22.45:273][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Bush, compiling. 
+[2019.10.14-09.22.45:285][810]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2019.10.14-09.22.45:286][810]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2019.10.14-09.22.45:286][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Bush, compiling. 
+[2019.10.14-09.22.45:297][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Bush, compiling. 
+[2019.10.14-09.22.45:311][810]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2019.10.14-09.22.45:311][810]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2019.10.14-09.22.45:311][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Frame, compiling. 
+[2019.10.14-09.22.45:329][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Frame, compiling. 
+[2019.10.14-09.22.45:345][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_TableRound, compiling. 
+[2019.10.14-09.22.45:362][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_TableRound, compiling. 
+[2019.10.14-09.22.45:376][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Chair, compiling. 
+[2019.10.14-09.22.45:387][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Chair, compiling. 
+[2019.10.14-09.22.45:405][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_StatueGlass, compiling. 
+[2019.10.14-09.22.45:417][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_StatueGlass, compiling. 
+[2019.10.14-09.22.45:429][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Statue, compiling. 
+[2019.10.14-09.22.45:440][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Statue, compiling. 
+[2019.10.14-09.22.45:455][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Glass, compiling. 
+[2019.10.14-09.22.45:468][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Glass, compiling. 
+[2019.10.14-09.22.45:481][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2019.10.14-09.22.45:496][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2019.10.14-09.22.45:513][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Basic_Wall, compiling. 
+[2019.10.14-09.22.45:526][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Basic_Wall, compiling. 
+[2019.10.14-09.22.45:542][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Ceramic_Tile_Checker, compiling. 
+[2019.10.14-09.22.45:560][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Ceramic_Tile_Checker, compiling. 
+[2019.10.14-09.22.45:578][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Basic_Floor, compiling. 
+[2019.10.14-09.22.45:594][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Basic_Floor, compiling. 
+[2019.10.14-09.22.45:610][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Brick_Clay_Old, compiling. 
+[2019.10.14-09.22.45:628][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Brick_Clay_Old, compiling. 
+[2019.10.14-09.22.45:645][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Brick_Clay_Beveled, compiling. 
+[2019.10.14-09.22.45:663][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Brick_Clay_Beveled, compiling. 
+[2019.10.14-09.22.45:687][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Brick_Clay_New, compiling. 
+[2019.10.14-09.22.45:710][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Brick_Clay_New, compiling. 
+[2019.10.14-09.22.45:729][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Brick_Cut_Stone, compiling. 
+[2019.10.14-09.22.45:753][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Brick_Cut_Stone, compiling. 
+[2019.10.14-09.22.45:769][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Brick_Hewn_Stone, compiling. 
+[2019.10.14-09.22.45:785][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Brick_Hewn_Stone, compiling. 
+[2019.10.14-09.22.45:803][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_CobbleStone_Pebble, compiling. 
+[2019.10.14-09.22.45:821][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_CobbleStone_Pebble, compiling. 
+[2019.10.14-09.22.45:838][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_CobbleStone_Rough, compiling. 
+[2019.10.14-09.22.45:861][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_CobbleStone_Rough, compiling. 
+[2019.10.14-09.22.45:878][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_CobbleStone_Smooth, compiling. 
+[2019.10.14-09.22.45:901][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_CobbleStone_Smooth, compiling. 
+[2019.10.14-09.22.45:920][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Concrete_Grime, compiling. 
+[2019.10.14-09.22.45:933][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Concrete_Grime, compiling. 
+[2019.10.14-09.22.45:947][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Concrete_Panels, compiling. 
+[2019.10.14-09.22.45:964][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Concrete_Panels, compiling. 
+[2019.10.14-09.22.45:980][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Concrete_Tiles, compiling. 
+[2019.10.14-09.22.45:997][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Concrete_Tiles, compiling. 
+[2019.10.14-09.22.46:016][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Concrete_Poured, compiling. 
+[2019.10.14-09.22.46:035][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Concrete_Poured, compiling. 
+[2019.10.14-09.22.46:053][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Ground_Moss, compiling. 
+[2019.10.14-09.22.46:068][810]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 90
+[2019.10.14-09.22.46:068][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Ground_Moss, compiling. 
+[2019.10.14-09.22.46:088][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Ground_Gravel, compiling. 
+[2019.10.14-09.22.46:104][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Ground_Gravel, compiling. 
+[2019.10.14-09.22.46:122][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Ground_Grass, compiling. 
+[2019.10.14-09.22.46:136][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Ground_Grass, compiling. 
+[2019.10.14-09.22.46:156][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Steel, compiling. 
+[2019.10.14-09.22.46:178][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Steel, compiling. 
+[2019.10.14-09.22.46:194][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Rust, compiling. 
+[2019.10.14-09.22.46:213][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Rust, compiling. 
+[2019.10.14-09.22.46:232][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Gold, compiling. 
+[2019.10.14-09.22.46:250][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Gold, compiling. 
+[2019.10.14-09.22.46:269][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Burnished_Steel, compiling. 
+[2019.10.14-09.22.46:283][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Burnished_Steel, compiling. 
+[2019.10.14-09.22.46:296][810]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 104
+[2019.10.14-09.22.46:297][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Chrome, compiling. 
+[2019.10.14-09.22.46:309][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Chrome, compiling. 
+[2019.10.14-09.22.46:323][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Copper, compiling. 
+[2019.10.14-09.22.46:338][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Copper, compiling. 
+[2019.10.14-09.22.46:353][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Brushed_Nickel, compiling. 
+[2019.10.14-09.22.46:369][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Brushed_Nickel, compiling. 
+[2019.10.14-09.22.46:385][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Rock_Marble_Polished, compiling. 
+[2019.10.14-09.22.46:404][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Rock_Marble_Polished, compiling. 
+[2019.10.14-09.22.46:421][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Rock_Basalt, compiling. 
+[2019.10.14-09.22.46:440][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Rock_Basalt, compiling. 
+[2019.10.14-09.22.46:457][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Rock_Sandstone, compiling. 
+[2019.10.14-09.22.46:475][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Rock_Sandstone, compiling. 
+[2019.10.14-09.22.46:491][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Rock_Slate, compiling. 
+[2019.10.14-09.22.46:510][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Rock_Slate, compiling. 
+[2019.10.14-09.22.46:526][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Tech_Hex_Tile, compiling. 
+[2019.10.14-09.22.46:543][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Tech_Hex_Tile, compiling. 
+[2019.10.14-09.22.46:559][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Tech_Checker_Dot, compiling. 
+[2019.10.14-09.22.46:575][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Tech_Checker_Dot, compiling. 
+[2019.10.14-09.22.46:595][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Tech_Panel, compiling. 
+[2019.10.14-09.22.46:610][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Tech_Panel, compiling. 
+[2019.10.14-09.22.46:627][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Tech_Hex_Tile_Pulse, compiling. 
+[2019.10.14-09.22.46:643][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Tech_Hex_Tile_Pulse, compiling. 
+[2019.10.14-09.22.46:658][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Water_Lake, compiling. 
+[2019.10.14-09.22.46:675][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Water_Lake, compiling. 
+[2019.10.14-09.22.46:690][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Water_Ocean, compiling. 
+[2019.10.14-09.22.46:708][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Water_Ocean, compiling. 
+[2019.10.14-09.22.46:725][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Wood_Oak, compiling. 
+[2019.10.14-09.22.46:741][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Wood_Oak, compiling. 
+[2019.10.14-09.22.46:758][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Wood_Walnut, compiling. 
+[2019.10.14-09.22.46:774][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Wood_Walnut, compiling. 
+[2019.10.14-09.22.46:792][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Wood_Pine, compiling. 
+[2019.10.14-09.22.46:810][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Wood_Pine, compiling. 
+[2019.10.14-09.22.46:825][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Wood_Floor_Walnut_Worn, compiling. 
+[2019.10.14-09.22.46:841][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Wood_Floor_Walnut_Worn, compiling. 
+[2019.10.14-09.22.46:858][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Wood_Floor_Walnut_Polished, compiling. 
+[2019.10.14-09.22.46:875][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Wood_Floor_Walnut_Polished, compiling. 
+[2019.10.14-09.22.46:899][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2019.10.14-09.22.46:918][810]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 170
+[2019.10.14-09.22.46:918][810]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2019.10.14-09.23.22:648][810]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 162
+[2019.10.14-09.23.22:648][810]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 152
+[2019.10.14-09.23.22:648][810]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 142
+[2019.10.14-09.23.22:648][810]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 132
+[2019.10.14-09.23.22:648][810]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 122
+[2019.10.14-09.23.22:648][810]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 112
+[2019.10.14-09.23.22:648][810]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 102
+[2019.10.14-09.23.22:648][810]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 92
+[2019.10.14-09.23.22:648][810]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 82
+[2019.10.14-09.23.22:648][810]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 72
+[2019.10.14-09.23.22:648][810]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 62
+[2019.10.14-09.23.22:648][810]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 52
+[2019.10.14-09.23.22:648][810]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 42
+[2019.10.14-09.23.22:648][810]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 32
+[2019.10.14-09.23.22:648][810]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 23
+[2019.10.14-09.23.22:648][810]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2019.10.14-09.23.22:648][810]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2019.10.14-09.23.22:648][810]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2019.10.14-09.23.22:648][810]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2019.10.14-09.23.22:648][810]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2019.10.14-09.23.22:648][810]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2019.10.14-09.23.22:648][810]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2019.10.14-09.23.22:648][810]LogUObjectHash: Compacting FUObjectHashTables data took   5.93ms
+[2019.10.14-09.23.43:084][810]Job is a success!
+[2019.10.14-09.23.43:189][810]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.017s
+[2019.10.14-09.23.43:189][810]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.10.14-09.23.43:189][810]LogVolumetricLightmapImport:      BrickData 295x5x5 = 0.3Mb
+[2019.10.14-09.23.43:190][810]LogVolumetricLightmapImport:      Bricks at Level
+[2019.10.14-09.23.43:190][810]LogVolumetricLightmapImport:          0: 1.7% covering 100.0% of volume
+[2019.10.14-09.23.43:190][810]LogVolumetricLightmapImport:          1: 13.6% covering 12.5% of volume
+[2019.10.14-09.23.43:190][810]LogVolumetricLightmapImport:          2: 84.7% covering 1.2% of volume
+[2019.10.14-09.23.45:944][810]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2019.10.14-09.23.45:944][810]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.10.14-09.23.45:944][810]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.10.14-09.23.45:944][810]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 1024X512)
+[2019.10.14-09.23.45:944][810]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2019.10.14-09.23.45:944][810]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2019.10.14-09.23.45:944][810]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 1024X512)
+[2019.10.14-09.23.45:944][810]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2019.10.14-09.23.45:944][810]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2019.10.14-09.23.45:944][810]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 1024X512)
+[2019.10.14-09.23.45:944][810]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 1024X1024)
+[2019.10.14-09.23.45:944][810]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 1024X1024)
+[2019.10.14-09.23.45:944][810]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 64X32)
+[2019.10.14-09.23.45:944][810]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 64X64)
+[2019.10.14-09.23.45:944][810]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 64X64)
+[2019.10.14-09.23.45:944][810]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 32X32)
+[2019.10.14-09.23.45:944][810]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 1024X1024)
+[2019.10.14-09.23.45:944][810]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2019.10.14-09.23.45:944][810]Lightmass on STEVEN-FIXE: 21.9 sec total, 283 ms importing, 90 ms setup, 2.37 sec photons, 19.1 sec processing, 0 ms extra exporting [191/191 mappings]. Threads: 2:13 min total, 1:24 min processing.
+[2019.10.14-09.23.45:944][810]LogStaticLightingSystem: StarterMap_BuiltData storing lightmap data for 120 meshes in 12 LightmapResourceClusters (10.0 Meshes per cluster).
+[2019.10.14-09.23.46:026][810]LogUObjectHash: Compacting FUObjectHashTables data took   8.17ms
+[2019.10.14-09.23.46:034][810]LogStaticLightingSystem: Illumination: 1:07 min (2.08 sec encoding lightmaps, 293 ms encoding shadowmaps)
+[2019.10.14-09.23.46:034][810]LogStaticLightingSystem: Lightmap texture memory:  10.7 MB (10.7 MB streaming, 0.0 MB non-streaming), 10 textures
+[2019.10.14-09.23.46:034][810]LogStaticLightingSystem: Shadowmap texture memory: 2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 3 textures
+[2019.10.14-09.23.46:874][810]DumpUnbuiltLightIteractions
+[2019.10.14-09.23.46:874][810]Lights with unbuilt interactions: 0
+[2019.10.14-09.23.46:874][810]
+[2019.10.14-09.23.46:874][810]Primitives with unbuilt interactions: 0
+[2019.10.14-09.23.47:203][810]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.10.14-09.23.47:203][810]MapCheck: New page: StarterMap - 14 oct. 2019 13:23:47
+[2019.10.14-09.23.47:210][810]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 6,374ms to complete.
+[2019.10.14-09.23.47:212][810]LogEditorBuildUtils: Build time 1:37
+[2019.10.14-09.23.47:588][811]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.10.14-09.23.47:589][811]MapCheck: New page: StarterMap - 14 oct. 2019 13:23:47
+[2019.10.14-09.23.47:592][811]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3,294ms to complete.
+[2019.10.14-09.24.02:367][446]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.14-09.24.02:387][446]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.StarterMap' with GeneratedClass '/Game/StarterContent/Maps/StarterMap.StarterMap_C' with ClassGeneratedBy '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.StarterMap'
+[2019.10.14-09.24.02:387][446]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.14-09.24.02:388][446]LogPlayLevel: [PlayLevel] Compiling Blueprint_Effect_Fire before play...
+[2019.10.14-09.24.02:587][446]LogPlayLevel: [PlayLevel] Compiling Blueprint_Effect_Sparks before play...
+[2019.10.14-09.24.02:905][446]LogUObjectHash: Compacting FUObjectHashTables data took   8.43ms
+[2019.10.14-09.24.02:906][446]LogPlayLevel: PlayLevel: Blueprint regeneration took 519 ms (2 blueprints)
+[2019.10.14-09.24.02:906][446]LogHMD: Initializing OVRPlugin session
+[2019.10.14-09.24.06:165][446]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2019.10.14-09.24.06:167][446]PIE: New page: PIE session: StarterMap (14 oct. 2019 13:24:06)
+[2019.10.14-09.24.06:169][446]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.10.14-09.24.06:172][446]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_StarterMap
+[2019.10.14-09.24.06:208][446]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036319s)
+[2019.10.14-09.24.06:210][446]LogAIModule: Creating AISystem for world StarterMap
+[2019.10.14-09.24.06:210][446]LogPlayLevel: PIE: World Init took: (0.001661s)
+[2019.10.14-09.24.06:210][446]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/StarterMap.StarterMap to /Game/StarterContent/Maps/UEDPIE_0_StarterMap.StarterMap (0.038577s)
+[2019.10.14-09.24.06:303][446]LogUObjectHash: Compacting FUObjectHashTables data took   5.16ms
+[2019.10.14-09.24.06:407][446]LogInit: XAudio2 using 'Casque (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.14-09.24.06:426][446]LogInit: FAudioDevice initialized.
+[2019.10.14-09.24.06:441][446]LogLoad: Game class is 'GameModeBase'
+[2019.10.14-09.24.06:454][446]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_StarterMap.StarterMap up for play (max tick rate 0) at 2019.10.14-11.24.06
+[2019.10.14-09.24.06:458][446]LogWorld: Bringing up level for play took: 0.014864
+[2019.10.14-09.24.06:458][446]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2019.10.14-09.24.06:479][446]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 20 classes and 0 folders.
+[2019.10.14-09.24.06:483][446]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_StarterMap 3,957
+[2019.10.14-09.24.06:483][446]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.StarterMap' with GeneratedClass '/Game/StarterContent/Maps/StarterMap.StarterMap_C' with ClassGeneratedBy '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.StarterMap'
+[2019.10.14-09.25.24:066][305]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.StarterMap' with GeneratedClass '/Game/StarterContent/Maps/StarterMap.StarterMap_C' with ClassGeneratedBy '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.StarterMap'
+[2019.10.14-09.25.24:076][305]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-09.25.24:076][305]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_StarterMap
+[2019.10.14-09.25.24:077][305]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.14-09.25.24:097][305]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.14-09.25.24:098][305]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.StarterMap' with GeneratedClass '/Game/StarterContent/Maps/StarterMap.StarterMap_C' with ClassGeneratedBy '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.StarterMap'
+[2019.10.14-09.25.24:154][305]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-09.25.24:180][305]LogUObjectHash: Compacting FUObjectHashTables data took   6.37ms
+[2019.10.14-09.25.24:213][306]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.10.14-09.25.39:711][398]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-09.25.41:727][473]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Shere)
+[2019.10.14-09.25.49:863][750]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-09.26.00:358][103]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MaterialSphere_33)
+[2019.10.14-09.26.01:898][152]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-09.26.02:081][157]LogAssetEditorManager: Opening Asset editor for Material /Game/StarterContent/Materials/M_Water_Ocean.M_Water_Ocean
+[2019.10.14-09.26.02:088][157]LogMaterial: Display: Missing cached shader map for material M_Water_Ocean, compiling. 
+[2019.10.14-09.26.02:222][157]LogMaterial: Display: Missing cached shader map for material M_Water_Ocean, compiling. 
+[2019.10.14-09.26.02:248][157]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 30
+[2019.10.14-09.26.02:248][157]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 29
+[2019.10.14-09.26.02:248][157]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 28
+[2019.10.14-09.26.02:248][157]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 27
+[2019.10.14-09.26.02:253][157]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2019.10.14-09.26.02:266][157]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2019.10.14-09.26.02:276][157]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_18, compiling. 
+[2019.10.14-09.26.02:287][157]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2019.10.14-09.26.02:299][157]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_16, compiling. 
+[2019.10.14-09.26.02:311][157]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_22, compiling. 
+[2019.10.14-09.26.02:323][157]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_19, compiling. 
+[2019.10.14-09.26.02:336][157]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_21, compiling. 
+[2019.10.14-09.26.02:347][157]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2019.10.14-09.26.02:361][157]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_4, compiling. 
+[2019.10.14-09.26.03:475][199]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 66
+[2019.10.14-09.26.03:511][201]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 65
+[2019.10.14-09.26.03:525][202]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 64
+[2019.10.14-09.26.03:639][209]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 63
+[2019.10.14-09.26.04:167][233]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 62
+[2019.10.14-09.26.04:392][245]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 61
+[2019.10.14-09.26.04:450][245]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 60
+[2019.10.14-09.26.04:536][248]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 59
+[2019.10.14-09.26.04:900][260]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 58
+[2019.10.14-09.26.06:692][308]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 57
+[2019.10.14-09.26.06:693][308]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 56
+[2019.10.14-09.26.07:236][325]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 55
+[2019.10.14-09.26.07:522][335]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 54
+[2019.10.14-09.26.08:109][350]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 53
+[2019.10.14-09.26.08:799][367]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 52
+[2019.10.14-09.26.09:271][381]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 51
+[2019.10.14-09.26.09:356][383]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 50
+[2019.10.14-09.26.09:582][390]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 49
+[2019.10.14-09.26.10:542][415]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 48
+[2019.10.14-09.26.10:947][424]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 47
+[2019.10.14-09.26.11:572][438]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 46
+[2019.10.14-09.26.12:289][454]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 45
+[2019.10.14-09.26.12:328][455]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 44
+[2019.10.14-09.26.12:759][465]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 43
+[2019.10.14-09.26.13:409][479]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 42
+[2019.10.14-09.26.13:968][493]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 41
+[2019.10.14-09.26.14:598][508]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 40
+[2019.10.14-09.26.14:763][513]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 39
+[2019.10.14-09.26.14:961][520]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 38
+[2019.10.14-09.26.15:718][545]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 37
+[2019.10.14-09.26.15:720][545]MaterialEditorStats: Base pass shader: 168 instructions
+[2019.10.14-09.26.15:720][545]MaterialEditorStats: Base pass shader with Surface Lightmap: 195 instructions
+[2019.10.14-09.26.15:720][545]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 242 instructions
+[2019.10.14-09.26.15:720][545]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2019.10.14-09.26.15:720][545]MaterialEditorStats: Texture samplers: 6/16
+[2019.10.14-09.26.15:721][545]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.10.14-09.26.15:721][545]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.10.14-09.26.15:983][554]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 36
+[2019.10.14-09.26.16:014][555]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 35
+[2019.10.14-09.26.16:319][565]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 34
+[2019.10.14-09.26.16:997][586]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 33
+[2019.10.14-09.26.17:456][601]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 32
+[2019.10.14-09.26.17:633][606]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 31
+[2019.10.14-09.26.17:849][613]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 30
+[2019.10.14-09.26.18:098][621]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 29
+[2019.10.14-09.26.19:035][643]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 28
+[2019.10.14-09.26.19:087][644]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 27
+[2019.10.14-09.26.19:288][648]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2019.10.14-09.26.19:302][648]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2019.10.14-09.26.20:439][665]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2019.10.14-09.26.20:555][667]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 23
+[2019.10.14-09.26.20:579][667]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 22
+[2019.10.14-09.26.20:651][668]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2019.10.14-09.26.22:091][701]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2019.10.14-09.26.22:182][704]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2019.10.14-09.26.22:210][705]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2019.10.14-09.26.22:333][708]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2019.10.14-09.26.22:526][708]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2019.10.14-09.26.23:436][723]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2019.10.14-09.26.23:514][724]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2019.10.14-09.26.23:562][725]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2019.10.14-09.26.23:597][726]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2019.10.14-09.26.24:657][745]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2019.10.14-09.26.24:792][747]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2019.10.14-09.26.25:258][756]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2019.10.14-09.26.25:298][757]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2019.10.14-09.26.26:605][778]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2019.10.14-09.26.26:682][779]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2019.10.14-09.26.26:734][780]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2019.10.14-09.26.26:847][783]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2019.10.14-09.26.27:817][800]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.10.14-09.26.27:964][803]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.10.14-09.26.28:265][809]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.10.14-09.26.28:270][809]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2019.10.14-09.26.38:300][222]LogSlate: Window 'Message Log' being destroyed
+[2019.10.14-09.26.38:317][222]LogSlate: Window 'Message Log' being destroyed
+[2019.10.14-09.27.29:536][133]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.10.14-09.27.29:543][133]LogAssetEditorManager: Opening Asset editor for World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2019.10.14-09.27.29:595][133]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2019.10.14-09.27.35:480][133]LogSlate: Window 'Save Content' being destroyed
+[2019.10.14-09.27.35:491][133]Cmd: MAP LOAD FILE="../../../../../../Users/steve/Documents/GitHub/Unreal-Projects/Proto_KingCham/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.14-09.27.35:496][133]LightingResults: New page: Lighting Build
+[2019.10.14-09.27.35:499][133]LoadErrors: New page: Loading map: Minimal_Default.umap
+[2019.10.14-09.27.35:503][133]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.14-09.27.35:505][133]MapCheck: New page: Map Check
+[2019.10.14-09.27.35:505][133]LightingResults: New page: Lighting Build
+[2019.10.14-09.27.35:547][133]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2019.10.14-09.27.35:757][133]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.14-09.27.35:800][133]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2019.10.14-09.27.35:838][133]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.14-09.27.35:838][133]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,198ms to complete.
+[2019.10.14-09.27.35:839][133]LogFileHelpers: Loading map 'Minimal_Default' took 0.351
+[2019.10.14-09.27.37:804][278]LogAIModule: Creating AISystem for world Advanced_Lighting
+[2019.10.14-09.27.37:815][278]LogAssetEditorManager: Opening Asset editor for World /Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting
+[2019.10.14-09.27.37:850][278]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2019.10.14-09.27.39:121][278]LogSlate: Window 'Save Content' being destroyed
+[2019.10.14-09.27.39:134][278]Cmd: MAP LOAD FILE="../../../../../../Users/steve/Documents/GitHub/Unreal-Projects/Proto_KingCham/Content/StarterContent/Maps/Advanced_Lighting.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.14-09.27.39:139][278]LightingResults: New page: Lighting Build
+[2019.10.14-09.27.39:143][278]LoadErrors: New page: Loading map: Advanced_Lighting.umap
+[2019.10.14-09.27.39:144][278]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2019.10.14-09.27.39:144][278]MapCheck: New page: Map Check
+[2019.10.14-09.27.39:144][278]LightingResults: New page: Lighting Build
+[2019.10.14-09.27.39:184][278]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2019.10.14-09.27.39:403][278]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.14-09.27.39:443][278]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2019.10.14-09.27.39:476][278]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.14-09.27.39:477][278]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,18ms to complete.
+[2019.10.14-09.27.39:477][278]LogFileHelpers: Loading map 'Advanced_Lighting' took 0.345
+[2019.10.14-09.27.41:685][497]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.14-09.27.41:702][497]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting:PersistentLevel.Advanced_Lighting' with GeneratedClass '/Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting:PersistentLevel.Advanced_Lighting'
+[2019.10.14-09.27.41:702][497]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.14-09.27.41:702][497]LogHMD: Initializing OVRPlugin session
+[2019.10.14-09.27.41:830][497]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2019.10.14-09.27.41:831][497]PIE: New page: PIE session: Advanced_Lighting (14 oct. 2019 13:27:41)
+[2019.10.14-09.27.41:834][497]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Advanced_Lighting
+[2019.10.14-09.27.41:839][497]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005179s)
+[2019.10.14-09.27.41:841][497]LogAIModule: Creating AISystem for world Advanced_Lighting
+[2019.10.14-09.27.41:841][497]LogPlayLevel: PIE: World Init took: (0.001643s)
+[2019.10.14-09.27.41:841][497]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting to /Game/StarterContent/Maps/UEDPIE_0_Advanced_Lighting.Advanced_Lighting (0.007429s)
+[2019.10.14-09.27.41:882][497]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2019.10.14-09.27.41:959][497]LogInit: XAudio2 using 'Casque (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.14-09.27.41:982][497]LogInit: FAudioDevice initialized.
+[2019.10.14-09.27.41:997][497]LogLoad: Game class is 'GameModeBase'
+[2019.10.14-09.27.41:998][497]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Advanced_Lighting.Advanced_Lighting up for play (max tick rate 0) at 2019.10.14-11.27.41
+[2019.10.14-09.27.41:998][497]LogWorld: Bringing up level for play took: 0.000719
+[2019.10.14-09.27.41:998][497]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2019.10.14-09.27.42:000][497]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Advanced_Lighting -0,526
+[2019.10.14-09.27.42:001][497]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting:PersistentLevel.Advanced_Lighting' with GeneratedClass '/Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting:PersistentLevel.Advanced_Lighting'
+[2019.10.14-09.28.21:979][576]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting:PersistentLevel.Advanced_Lighting' with GeneratedClass '/Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting:PersistentLevel.Advanced_Lighting'
+[2019.10.14-09.28.21:985][576]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-09.28.21:985][576]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Advanced_Lighting
+[2019.10.14-09.28.21:985][576]LogWorld: UWorld::CleanupWorld for Advanced_Lighting, bSessionEnded=true, bCleanupResources=true
+[2019.10.14-09.28.21:995][576]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.14-09.28.21:996][576]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting:PersistentLevel.Advanced_Lighting' with GeneratedClass '/Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting:PersistentLevel.Advanced_Lighting'
+[2019.10.14-09.28.22:050][576]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-09.28.22:054][576]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2019.10.14-09.28.22:085][577]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.10.14-09.28.28:006][211]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-09.28.28:094][220]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.14-09.28.28:114][220]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting:PersistentLevel.Advanced_Lighting' with GeneratedClass '/Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting:PersistentLevel.Advanced_Lighting'
+[2019.10.14-09.28.28:115][220]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.14-09.28.28:115][220]LogHMD: Initializing OVRPlugin session
+[2019.10.14-09.28.28:234][220]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2019.10.14-09.28.28:235][220]PIE: New page: PIE session: Advanced_Lighting (14 oct. 2019 13:28:28)
+[2019.10.14-09.28.28:237][220]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Advanced_Lighting
+[2019.10.14-09.28.28:241][220]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004040s)
+[2019.10.14-09.28.28:242][220]LogAIModule: Creating AISystem for world Advanced_Lighting
+[2019.10.14-09.28.28:242][220]LogPlayLevel: PIE: World Init took: (0.000963s)
+[2019.10.14-09.28.28:242][220]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting to /Game/StarterContent/Maps/UEDPIE_0_Advanced_Lighting.Advanced_Lighting (0.005203s)
+[2019.10.14-09.28.28:276][220]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2019.10.14-09.28.28:351][220]LogInit: XAudio2 using 'Casque (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.14-09.28.28:373][220]LogInit: FAudioDevice initialized.
+[2019.10.14-09.28.28:383][220]LogLoad: Game class is 'GameModeBase'
+[2019.10.14-09.28.28:384][220]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Advanced_Lighting.Advanced_Lighting up for play (max tick rate 0) at 2019.10.14-11.28.28
+[2019.10.14-09.28.28:385][220]LogWorld: Bringing up level for play took: 0.000547
+[2019.10.14-09.28.28:385][220]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2019.10.14-09.28.28:389][220]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Advanced_Lighting -0,136
+[2019.10.14-09.28.28:389][220]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting:PersistentLevel.Advanced_Lighting' with GeneratedClass '/Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting:PersistentLevel.Advanced_Lighting'
+[2019.10.14-09.28.33:972][770]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting:PersistentLevel.Advanced_Lighting' with GeneratedClass '/Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting:PersistentLevel.Advanced_Lighting'
+[2019.10.14-09.28.33:981][770]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-09.28.33:981][770]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Advanced_Lighting
+[2019.10.14-09.28.33:981][770]LogWorld: UWorld::CleanupWorld for Advanced_Lighting, bSessionEnded=true, bCleanupResources=true
+[2019.10.14-09.28.33:995][770]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.14-09.28.33:995][770]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting:PersistentLevel.Advanced_Lighting' with GeneratedClass '/Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting:PersistentLevel.Advanced_Lighting'
+[2019.10.14-09.28.34:049][770]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.14-09.28.34:057][770]LogUObjectHash: Compacting FUObjectHashTables data took   7.73ms
+[2019.10.14-09.28.34:089][771]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.10.14-09.28.40:406][398]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.14-09.28.40:645][415]LogAIModule: Creating AISystem for world StarterMap
+[2019.10.14-09.28.40:666][415]LogAssetEditorManager: Opening Asset editor for World /Game/StarterContent/Maps/StarterMap.StarterMap
+[2019.10.14-09.28.40:708][415]LogUObjectHash: Compacting FUObjectHashTables data took   5.86ms
+[2019.10.14-09.28.42:278][415]LogSlate: Window 'Save Content' being destroyed
+[2019.10.14-09.28.42:291][415]Cmd: MAP LOAD FILE="../../../../../../Users/steve/Documents/GitHub/Unreal-Projects/Proto_KingCham/Content/StarterContent/Maps/StarterMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.14-09.28.42:295][415]LightingResults: New page: Lighting Build
+[2019.10.14-09.28.42:298][415]LoadErrors: New page: Loading map: StarterMap.umap
+[2019.10.14-09.28.42:299][415]LogWorld: UWorld::CleanupWorld for Advanced_Lighting, bSessionEnded=true, bCleanupResources=true
+[2019.10.14-09.28.42:300][415]MapCheck: New page: Map Check
+[2019.10.14-09.28.42:300][415]LightingResults: New page: Lighting Build
+[2019.10.14-09.28.42:349][415]LogUObjectHash: Compacting FUObjectHashTables data took   7.43ms
+[2019.10.14-09.28.42:742][415]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.14-09.28.42:789][415]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2019.10.14-09.28.42:824][415]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.14-09.28.42:825][415]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,181ms to complete.
+[2019.10.14-09.28.42:825][415]LogFileHelpers: Loading map 'StarterMap' took 0.537
+[2019.10.14-09.28.44:786][583]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.10.14-09.28.44:794][583]LogAssetEditorManager: Opening Asset editor for World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2019.10.14-09.28.44:830][583]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2019.10.14-09.28.46:118][583]LogSlate: Window 'Save Content' being destroyed
+[2019.10.14-09.28.46:131][583]Cmd: MAP LOAD FILE="../../../../../../Users/steve/Documents/GitHub/Unreal-Projects/Proto_KingCham/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.14-09.28.46:136][583]LightingResults: New page: Lighting Build
+[2019.10.14-09.28.46:141][583]LoadErrors: New page: Loading map: Minimal_Default.umap
+[2019.10.14-09.28.46:143][583]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.14-09.28.46:145][583]MapCheck: New page: Map Check
+[2019.10.14-09.28.46:145][583]LightingResults: New page: Lighting Build
+[2019.10.14-09.28.46:195][583]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2019.10.14-09.28.46:563][583]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.14-09.28.46:616][583]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2019.10.14-09.28.46:651][583]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.14-09.28.46:652][583]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,171ms to complete.
+[2019.10.14-09.28.46:652][583]LogFileHelpers: Loading map 'Minimal_Default' took 0.523
+[2019.10.14-09.29.02:260][273]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair)
+[2019.10.14-09.29.05:453][534]Cmd: DELETE
+[2019.10.14-09.29.05:453][534]Cmd: ACTOR DELETE
+[2019.10.14-09.29.05:460][534]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.14-09.29.05:460][534]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.14-09.29.05:461][534]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.14-09.29.05:498][534]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2019.10.14-09.29.05:499][534]LogEditorActor: Deleted 3 Actors (0.044 secs)
+[2019.10.14-09.29.10:565][ 92]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.14-09.29.10:614][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2019.10.14-09.29.10:810][ 92]LogSavePackage: Moving '../../../../../../Users/steve/Documents/GitHub/Unreal-Projects/Proto_KingCham/Saved/Minimal_DefaultFBC4B9B3401E91BA693938AA292B24FC.tmp' to '../../../../../../Users/steve/Documents/GitHub/Unreal-Projects/Proto_KingCham/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.10.14-09.29.10:922][ 92]LogSavePackage: Moving '../../../../../../Users/steve/Documents/GitHub/Unreal-Projects/Proto_KingCham/Saved/Minimal_Default_BuiltDataC09B13D342FF533F630DAABC61A5D873.tmp' to '../../../../../../Users/steve/Documents/GitHub/Unreal-Projects/Proto_KingCham/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
